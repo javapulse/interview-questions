@@ -13,7 +13,7 @@
 
 ### What are the various memory areas present in JVM?
  - JVM has 5 different memory areas :
-    1. Method area
+    1. Method area (**Method Area (PermGen or Metaspace): The method area stores class structures, method data, and static variables. In Java 8 and later versions, PermGen has been replaced by Metaspace.**)
     2. Stack area
     3. Heap area
     4. PC Registers
