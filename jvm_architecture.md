@@ -5,7 +5,7 @@
 ![arch_diagram](./jvm_architecture.png)
 
 ### Is JVM, a compiler or interpreter?
- - JVM is an interpreter.
+ - The JVM (Java Virtual Machine) is both a compiler and an interpreter.
 
 ### What is Classloader?
  - Class loader is a set of components which loads the classes during runtime into JVM.
